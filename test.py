@@ -1,1 +1,1 @@
-print('SHALOM')
+print('ZDAROVA')
