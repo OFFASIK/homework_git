@@ -1,1 +1,1 @@
-print('NEW SOLVED CONFLICT TEXT')
+print('NEW TEXT TEST')
