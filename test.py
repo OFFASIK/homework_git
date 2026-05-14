@@ -1,1 +1,1 @@
-print('ZDAROVA')
+print('CONFLICT PROVOCATION')
