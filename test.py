@@ -1,1 +1,1 @@
-print('SHALOM')
+print('NEW SOLVED CONFLICT TEXT')
